@@ -1,0 +1,3 @@
+- 👋 Hi, I’m cena
+- 👀 I’m interested in website design,website creation,AI, for now.
+- 🌱 I’m currently learning python,front-end
